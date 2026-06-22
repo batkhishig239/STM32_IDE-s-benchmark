@@ -101,7 +101,7 @@ The following DSView v1.3.2 screenshots were captured using a DSLogic PLus logic
 
 | 8 MHz | 64 MHz |
 |-------|--------|
-| ![KEIL 8MHz](images/KEIL_8MHz.png) | ![KEIL 64MHz](images/KEIL_64Mhz.png) |
+| ![KEIL 8MHz](data/KEIL_8MHz.png) | ![KEIL 64MHz](data/KEIL_64Mhz.png) |
 
 **Measured Width: `+310 ns`**
 
@@ -114,7 +114,7 @@ The following DSView v1.3.2 screenshots were captured using a DSLogic PLus logic
 
 | 8 MHz | 64 MHz |
 |-------|--------|
-| ![STM32 8MHz](images/STM32_8MHz.png) | ![STM32 64MHz](images/STM32_64Mhz.png) |
+| ![STM32 8MHz](data/STM32_8MHz.png) | ![STM32 64MHz](data/STM32_64Mhz.png) |
 
 **Measured Width: `+880 ns`**
 
@@ -127,7 +127,7 @@ The following DSView v1.3.2 screenshots were captured using a DSLogic PLus logic
 
 | 8 MHz | 64 MHz |
 |-------|--------|
-| ![VS ARM Clang 8MHz](images/VS_ARM_CLANG_8MHz.png) | ![VS ARM Clang 64MHz](images/VS_ARM_CLANG_64Mhz.png) |
+| ![VS ARM Clang 8MHz](data/VS_ARM_CLANG_8MHz.png) | ![VS ARM Clang 64MHz](data/VS_ARM_CLANG_64Mhz.png) |
 
 **Measured Width: `+360 ns`**
 
@@ -140,7 +140,7 @@ The following DSView v1.3.2 screenshots were captured using a DSLogic PLus logic
 
 | 8 MHz | 64 MHz |
 |-------|--------|
-| ![VS GCC 8MHz](images/VS_GCC_8MHz.png) | ![VS GCC 64MHz](images/VS_GCC_64Mhz.png) |
+| ![VS GCC 8MHz](data/VS_GCC_8MHz.png) | ![VS GCC 64MHz](data/VS_GCC_64Mhz.png) |
 
 **Measured Width: `+880 ns`**
 
